@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BaiduTranslateSDK", "BaiduTranslateSDK\BaiduTranslateSDK.csproj", "{EF632CE9-BB68-4981-B4D0-50D99150F41C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{75A31F84-4F6F-4B84-AB53-92528E8155A9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EHttp", "EHttp\EHttp.csproj", "{A98C0C71-F788-4EC8-95F2-D2E1BCF8F79A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF632CE9-BB68-4981-B4D0-50D99150F41C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF632CE9-BB68-4981-B4D0-50D99150F41C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF632CE9-BB68-4981-B4D0-50D99150F41C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF632CE9-BB68-4981-B4D0-50D99150F41C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75A31F84-4F6F-4B84-AB53-92528E8155A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75A31F84-4F6F-4B84-AB53-92528E8155A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75A31F84-4F6F-4B84-AB53-92528E8155A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75A31F84-4F6F-4B84-AB53-92528E8155A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A98C0C71-F788-4EC8-95F2-D2E1BCF8F79A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A98C0C71-F788-4EC8-95F2-D2E1BCF8F79A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A98C0C71-F788-4EC8-95F2-D2E1BCF8F79A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A98C0C71-F788-4EC8-95F2-D2E1BCF8F79A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {251E5966-464E-4DA2-9A90-FD690C040E28}
+	EndGlobalSection
+EndGlobal
